@@ -1,8 +1,7 @@
 from typing import List
 from decimal import Decimal
 
-
-from _currency_table_builder import _CurrencyTableBuilder
+from currency_tool._currency_table_builder import _CurrencyTableBuilder
 
 
 class CurrencyConverter:
